@@ -46,12 +46,12 @@ Exported_data/
         └── not_following_back.txt  (Includes days followed)
 ```
 
-## ⚙️ How Ignore Lists Work
+## How Ignore Lists Work
 
 If you follow accounts that you don't expect to follow you back (e.g., news outlets, celebrities), you can add them to an ignore list directly within the CLI menu. 
 
-* The ignore list is saved per username at `Exported_data/<username>/ignore.txt`.
-* Ignored users are filtered out from users who don't follow you back.
+- The ignore list is saved per username at `Exported_data/<username>/ignore.txt`.
+- Ignored users are filtered out from users who don't follow you back.
 
 ## Future Improvements
 
@@ -61,3 +61,7 @@ If you follow accounts that you don't expect to follow you back (e.g., news outl
 ## Status
 
 This project is under development.
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
